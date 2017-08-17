@@ -1,0 +1,23 @@
+{
+  "name": "html-template",
+  "version": "1.0.0",
+  "description": "A html template based on Node.js",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zphhhhh/html-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zphhhhh/html-template/issues"
+  },
+  "homepage": "https://github.com/zphhhhh/html-template#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}

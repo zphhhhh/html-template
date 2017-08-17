@@ -1,0 +1,9 @@
+<% if (username) { %>
+    <h1>Hello <%=  username  %>!</h1>
+    <p>username = <%=  username  %></p>
+    <% for (var i = 0; i < username.length; i ++) { %>
+        <p><%= username[i] %><p>
+    <% } %>
+<% } else { %>
+    <h1>Hello, someone!</h1>
+<% } %>
